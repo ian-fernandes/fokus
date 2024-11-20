@@ -3,7 +3,7 @@
 
 **Fokus** é um projeto fictício, desenvolvido para otimizar sua produtividade por meio de sessões de foco intercaladas com pausas curtas e longas. Inspirado na técnica Pomodoro, este aplicativo ajuda você a manter o foco no que importa, promovendo um equilíbrio saudável entre trabalho e descanso.
 
-![Logo do projeto](imagens/logo.png)
+![Logo do projeto](/Fokus-projeto-base/imagens/logo.png)
 
 ---
 
@@ -63,13 +63,13 @@
 ## 🌟 Demonstração
 
 ### Modo Foco
-![Modo Foco](imagens/foco.png)
+![Modo Foco](/Fokus-projeto-base/imagens/foco.png)
 
 ### Descanso Curto
-![Descanso Curto](imagens/short.png)
+![Descanso Curto](/Fokus-projeto-base/imagens/descanso-curto.png)
 
 ### Descanso Longo
-![Descanso Longo](imagens/long.png)
+![Descanso Longo](/Fokus-projeto-base/imagens/descanso-longo.png)
 
 ---
 
